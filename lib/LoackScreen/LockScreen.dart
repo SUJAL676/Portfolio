@@ -66,7 +66,7 @@ class _LockScreenState extends State<LockScreen> {
         Container(
           decoration: const BoxDecoration(
             image: DecorationImage(
-              image: AssetImage('assets/background/IPhoneBack3.jpeg'),
+              image: AssetImage('assets/background/IphoneBack3.jpeg'),
               fit: BoxFit.cover,
             ),
           ),
